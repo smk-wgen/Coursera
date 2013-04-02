@@ -1,4 +1,0 @@
-0,a,one
-1,b,two
-2,c,three
-4,AND_circuit AND_gate,a circuit in a computer that fires only when all of its inputs fire
